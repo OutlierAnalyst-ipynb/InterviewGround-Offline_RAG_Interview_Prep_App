@@ -15,7 +15,8 @@ This app is hosted and run by me — no installation, setup, or local LLM requir
 ## Project Structure
 ```
 InterviewGround/
-├── InterviewGround.py     # Streamlit app
+├── Code
+| ├── InterviewGround.py     # Streamlit app
 ├── requirements.txt       # Python dependencies
 ├── Dockerfile             # Container build
 └── README.md
